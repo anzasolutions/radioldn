@@ -1,0 +1,45 @@
+Jak s³uchaæ?
+
+1. Przede wszystkim upewnij siê, czy posiadasz na swoim komputerze program do odtwarzania muzyki. Je¿eli nie masz lub nie wiesz gdzie mo¿esz go znaleŸæ, sugerujemy instalacjê i u¿ycie jednego z darmowych programów:
+
+- [b]dla Windowsa:[/b]
+
+Winamp
+[link]http://www.winamp.com/[/link]
+
+Foobar
+[link]http://www.foobar2000.org/[/link]
+
+Songbird
+[link]http://www.getsongbird.com/[/link]
+
+Media Player Classic
+[link]http://www.codecs.com/download/Media_Player_Classic.htm[/link]
+
+Windows Media Player
+[link]http://download.microsoft.com/download/0/9/5/0953E553-3BB6-44B1-8973-106F1B7E5049/wmp11-windowsxp-x86-enu.exe[/link]
+
+- [b]dla Linuxa[/b]
+
+VLC media player
+[link]http://www.videolan.org/vlc/[/link]
+
+MPlayer
+[link]http://www.mplayerhq.hu/[/link]
+
+Amarok
+[link]http://amarok.kde.org/[/link]
+
+2. Maj¹c ju¿ zainstalowany program mo¿esz klikn¹æ na jeden z poni¿szych linków dostêpnych dla ka¿dego kana³u:
+
+- Winamp
+- WMP
+- Real Player
+
+Ka¿dy z nich uruchamia jeden z trzech dostêpnych strumieni danych. Mo¿na je uruchomiæ w zasadzie w ka¿dym z wy¿ej wspomnianych programów. Nale¿y jednak pamiêtaæ, ¿e aby odtworzyæ strumieñ Real Player nale¿y najpierw zainstalowaæ odpowiednie kodeki dostêpne w najnowszej wersji pod adresem:
+
+[link]http://www.codecs.com/Real_Alternative_download.htm[/link]
+
+¯yczymy d³ugich przyjemnie spêdzonych godzin razem z nami!
+
+W razie pytañ, w¹tpliwoœci lub propozycji prosimy o kontakt.

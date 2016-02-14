@@ -1,0 +1,60 @@
+a {
+	color: #ffffff;
+	text-decoration: none;
+	outline-style: none;
+}
+
+a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+#main {
+	width: 100px;
+  	-moz-border-radius: 10px;
+	font-family: 'Trebuchet MS', Georgia, Verdana, 'Lucida Grande', Arial, Tahoma, Sans-Serif;
+	font-size: 13px;
+	color: #ffffff;
+	border: 1px #000000 solid;
+	margin: 0 0 20px 0;
+	padding: 10px 20px 10px 20px;
+	background-color: #BF0202;
+	background: transparent url("../img/top5.png") repeat;
+}
+
+#header {
+	width: 100px;
+	font-size: 19px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#link {
+	font-size: 9px;
+	font-family: Verdana, Tahoma, 'Trebuchet MS', Georgia, 'Lucida Grande', Arial, Sans-Serif;
+	margin: 0px 0px 16px 0px;
+	text-align: center;
+}
+
+#channel {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 0 0 5px 0;
+}
+
+#channel a {
+	font-weight: bold;
+}
+
+#channel a:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}

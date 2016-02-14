@@ -1,0 +1,5 @@
+sc1.readycast.org, tigerfm, C6wv3U44, polska, 
+sc1.readycast.org, tigerfm2, C6wv3U44, ukcharts, 
+sc1.readycast.org, tigerfm3, tiger2001, trance, 
+sc1.readycast.org, tigerfm4, tiger2001, chillout, 
+sc1.readycast.org, tigerfm5, tiger2001, discopolo, 

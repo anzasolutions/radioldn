@@ -1,0 +1,9 @@
+sc1.readycast.org, 8888, polska, Tylko Polska
+sc1.readycast.org, 8026, ukcharts, UK Charts
+72.26.204.18, 6286, house, House
+72.26.204.18, 6096, chillout, Chillout
+72.26.204.18, 6026, trance, Trance
+72.26.204.18, 6036, disco, Disco Dance
+westside.servemp3.com, 8018, westside, Westside
+radio.komuna.org, 6060, dnb, Drum'n'Bass
+radio.komuna.org, 5050, electro, Electro

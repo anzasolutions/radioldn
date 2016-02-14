@@ -1,0 +1,81 @@
+a {
+	color: #ffffff;
+	text-decoration: none;
+	outline-style: none;
+}
+
+a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #ffffff;
+}
+
+#main {
+	width: 200px;
+  	-moz-border-radius: 10px;
+	font-family: 'Trebuchet MS', Georgia, Verdana, 'Lucida Grande', Arial, Tahoma, Sans-Serif;
+	font-size: 13px;
+	color: #ffffff;
+	border: 1px #000000 solid;
+	margin: 0 0 20px 0;
+	padding: 10px 20px 10px 20px;
+	background-color: #BF0202;
+	background: transparent url("../img/top5.png") repeat;
+}
+
+#header {
+	width: 200px;
+	height: 60px;
+	font-size: 39px;
+	font-weight: bold;
+	margin: 0px 0px -14px 0px;
+}
+
+#link {
+	width: 200px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: right;
+	margin: 0px 0px 10px 0px;
+}
+
+#channel {
+	width: 200px;
+	font-size: 18px;
+	font-weight: bold;
+	background: transparent url("../img/speaker.png") no-repeat top left;
+	padding: 0 0 10px 40px;
+}
+
+#channel a {
+	width: 200px;
+	font-weight: bold;
+}
+
+#channel a:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+	padding-bottom: 2px;
+}
+
+#hr {
+	height: 30px;
+	font-family: 'Trebuchet MS', Georgia, Verdana, 'Lucida Grande', Arial, Tahoma, Sans-Serif;
+	font-size: 10px;
+}
+
+#hr a {
+	height: 30px;
+	font-family: 'Trebuchet MS', Georgia, Verdana, 'Lucida Grande', Arial, Tahoma, Sans-Serif;
+}
+
+#hr a:hover {
+	height: 30px;
+}

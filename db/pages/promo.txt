@@ -1,0 +1,69 @@
+Poleæ nas znajomym
+
+Jeœli lubisz serwis RadioLDN.net i uwa¿asz ¿e jest on wart polecenia, zachêcamy do umieszczenia naszego banneru na Twojej stronie czy blogu. Na tej stronie umieœciliœmy listê bannerów reklamowych serwisu. Jeœli jednak ¿aden z nich nie pasuje do Twojego serwisu, napisz do nas, a byæ mo¿e zrobimy coœ specjalnie dla Ciebie.
+
+Oto lista bannerów i przycisków serwisu RadioLDN.net. Jeœli umieœcisz któryœ z nich na swojej stronie, powiedz nam o tym — mo¿emy porozmawiaæ o wspó³pracy. 
+
+[b]1. Panel LDN 250x335[/b]
+
+Kod:
+<p><textarea id="code-frame"><iframe src="http:\//citiradio.ovh.org/rl/panel/panel200.html" name="bianca" height="402" width="250" frameborder="0" scrolling="no"></iframe></textarea></p>Wygl¹d:
+
+<iframe src="panel/panel200.html" name="panel200" height="402" width="250" frameborder="0" scrolling="no"></iframe>
+
+
+[b]2. Panel LDN 150x244[/b]
+
+Kod:
+<p><textarea id="code-frame"><iframe src="http:\//citiradio.ovh.org/rl/panel/panel100.html" name="panel100" height="290" width="150" frameborder="0" scrolling="no"></iframe></textarea></p>Wygl¹d:
+
+<iframe src="panel/panel100.html" name="panel100" height="290" width="150" frameborder="0" scrolling="no"></iframe>
+
+
+[b]3. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner01.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner01.png\" style="border: 0px;">
+
+
+[b]4. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner02.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner02.png\" style="border: 0px;">
+
+
+[b]5. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner04.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner04.png\" style="border: 0px;">
+
+
+[b]6. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner05.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner05.png\" style="border: 0px;">
+
+
+[b]7. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner06.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner06.png\" style="border: 0px;">
+
+
+[b]8. Banner 468x60[/b]
+
+Kod:
+<p><textarea id="code-frame"><a href="http:\//www.radioldn.net" title="http:\//www.radioldn.net"><img src="http:\//citiradio.ovh.org/rl/img/ldn-banner07.png"> </a></textarea></p>Wygl¹d:
+
+<img src="img/ldn-banner07.png\" style="border: 0px;">
+
